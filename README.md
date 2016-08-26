@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MIPS Processor
 * MIPS processor is a pipelined processor
 * This project is a VHDL implementation for this processor
@@ -73,3 +74,6 @@ Table III shows the details of L-format instructions.
 * DEC R2
 - Predict untaken technique is used in B-Format instructions.
 - Interrupt handling flushes only the instruction that exists in fetch stage and save its address to begin with after RTI. All the others instructions in the pipeline run as usual.
+=======
+# mipsmicroprocessor
+>>>>>>> f551eb151e2dbcf6a8aa849d7ce173b0f764a6f1
